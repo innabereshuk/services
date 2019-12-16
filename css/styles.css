@@ -64,6 +64,7 @@ h2, p {
 
 .kontent__box {
     width: 210px;
+    margin: 0 75px;
 }
 
 .bg:hover {
